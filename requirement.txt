@@ -1,0 +1,5 @@
+cv2 == 4.10.0
+mediapipe == 0.10.14
+pyautogui == 0.9.54
+random == 9.6.
+pynput == 1.7.7
